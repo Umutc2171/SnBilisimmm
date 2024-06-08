@@ -13,3 +13,12 @@ eğer yorulmicaksan.
 
 Değiştirmek istediğin eklemek istediğin herhangi birşey olursa istediğini yapabilirsin abi farketmez bende değiştirdiğin şeylere bakar
 yeni şeyler öğrenirim en azından şimdiden eline koluna sağlık sağlıklı günler dilerim :)
+
+abi frontend dosyasının içinde .env klasörü açılıcak
+içine
+VITE_API_BASE_URL=http://localhost:5000
+bu yazılıcak
+backend klasörünün içinede .env klasörü açılıp
+MONGO_URI=mongodb+srv://snbilisim:Snn123456@snbilisim.4njdeae.mongodb.net/SnBilisim
+CLIENT_DOMAIN=http://localhost:5173
+bunlar yazılıcak abi 
