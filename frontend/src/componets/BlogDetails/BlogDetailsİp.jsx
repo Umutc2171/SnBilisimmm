@@ -1,0 +1,95 @@
+import "./BlogDeteils.css";
+
+const BlogDetailsİp = () => {
+  return (
+    <section className="single-blog">
+      <div className="container">
+        <article>
+          <div className="blog-wrapper">
+            <h1 className="blog-title">İp Kamera Sistemlerimiz</h1>
+            <blockquote>
+              <p>Güvenliğiniz SnBilisim İle 7/24 Güvende Olsun.</p>
+            </blockquote>
+            <div className="blog-content">
+              <figure>
+                <img src="/img/ip/4ip.png" alt="" className="blog-image" />
+              </figure>
+              <h1 className="blog-titlee">4 KAMERALI İP SİSTEMİMİZ</h1>
+              <div className="blog-content">
+                <p> › İşçilik ve Malımızın Kalitesine Güveniyoruz.%100</p>
+                <p> › Gece Görüşlü 20mt(Gece).</p>
+                <p> › 1/3 Geniş Açılı 3.6 MM</p>
+                <p> › IP67 Standardına Uygun.</p>
+                <p> › Su Geçirmez.</p>
+                <p> › 15 Gün Kayıt Süresi(Arttırılabilir)</p>
+                <p> › Cepten ve İnternetten 7/24 İzleyebilme.</p>
+                <p> › 3.0 MP Çözünürlük.(5MP Yazılım)</p>
+                <p> › 1 ADET 8 PORT SWITCH</p>
+                <p> › 2 Sene Garantili.</p>
+                <p> › 7/24 Müşteri Desteğimiz.</p>
+                <p> -Paket İçeriği- </p>
+                <p> › 4 ADET 3MP IP KAMERA</p>
+                <p> › 500 GB VİDEO KAYIT DİSKİ</p>
+                <p> › 4 KANAL İP SİSTEM KAYIT CİHAZI</p>
+                <p> › 12V 5A POWERSUPPLY</p>
+                <p> › KABLO ve KONNEKTÖRLER</p>
+              </div>
+            </div>
+            <div className="blog-content">
+              <figure>
+                <img src="/img/ip/8ip.png" alt="" className="blog-image" />
+              </figure>
+              <h1 className="blog-titlee">8 KAMERALI İP SİSTEMİMİZ</h1>
+              <div className="blog-content">
+                <p> › İşçilik ve Malımızın Kalitesine Güveniyoruz.%100</p>
+                <p> › Gece Görüşlü 20mt(Gece).</p>
+                <p> › 1/3 Geniş Açılı 3.6 MM</p>
+                <p> › IP67 Standardına Uygun.</p>
+                <p> › Su Geçirmez.</p>
+                <p> › 1 Ay Kayıt Süresi(Arttırılabilir)</p>
+                <p> › Cepten ve İnternetten 7/24 İzleyebilme.</p>
+                <p> › 3.0 MP Çözünürlük.(5MP Yazılım)</p>
+                <p> › 1 ADET 8 PORT SWITCH</p>
+                <p> › 2 Sene Garantili.</p>
+                <p> › 7/24 Müşteri Desteğimiz.</p>
+                <p> -Paket İçeriği- </p>
+                <p> › 4 ADET 3MP IP KAMERA</p>
+                <p> › 500 GB VİDEO KAYIT DİSKİ</p>
+                <p> › 4 KANAL İP SİSTEM KAYIT CİHAZI</p>
+                <p> › 12V 5A POWERSUPPLY</p>
+                <p> › KABLO ve KONNEKTÖRLER</p>
+              </div>
+            </div>
+            <div className="blog-content">
+              <figure>
+                <img src="/img/ip/16ip.png" alt="" className="blog-image" />
+              </figure>
+              <h1 className="blog-titlee">16 KAMERALI İP SİSTEMİMİZ</h1>
+              <div className="blog-content">
+                <p> › İşçilik ve Malımızın Kalitesine Güveniyoruz.%100</p>
+                <p> › Gece Görüşlü 20mt(Gece).</p>
+                <p> › 1/3 Geniş Açılı 3.6 MM</p>
+                <p> › IP67 Standardına Uygun.</p>
+                <p> › Su Geçirmez.</p>
+                <p> › 2 Ay Kayıt Süresi(Arttırılabilir)</p>
+                <p> › Cepten ve İnternetten 7/24 İzleyebilme.</p>
+                <p> › 3.0 MP Çözünürlük.(5MP Yazılım)</p>
+                <p> › 1 ADET 16 PORT SWITCH</p>
+                <p> › 2 Sene Garantili.</p>
+                <p> › 7/24 Müşteri Desteğimiz.</p>
+                <p> -Paket İçeriği- </p>
+                <p> › 16 ADET 3.0MP IP KAMERA</p>
+                <p> › 2 TB VİDEO KAYIT DİSKİ</p>
+                <p> › 4 KANAL İP SİSTEM KAYIT CİHAZI</p>
+                <p> › 12V 20A POWERSUPPLY</p>
+                <p> › KABLO ve KONNEKTÖRLER</p>
+              </div>
+            </div>
+          </div>
+        </article>
+      </div>
+    </section>
+  );
+};
+
+export default BlogDetailsİp;

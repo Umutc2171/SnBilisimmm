@@ -1,0 +1,15 @@
+Abi selamun aleyküm hayırlı günler dilerim kusura bakma rahatsız ettim ama biraz yardıma ihtiyacım var
+abi backend ve frontendi başlatmak için
+backend dosyasına cd backend yazıp npm start yazılıkca
+frontend içinde cd frontend yazp npm run dev yazılıcak ikisinide aynı anda başlatmamız gerekiyor
+admin paneli 
+umutc2171@gmail.com
+şifre : umutcan3132
+
+abi admin panelinde ürünleri yüklerken kategori seç diyor orda seçtiğim kategoriye ürünün gelmesini istiyorum
+
+eğer şansın varsa ürünleri bilgisayardan fotoğraf yükleme ve bide kategoriyede aynı şekilde yapma şansın varsa çok mutlu olurum 
+eğer yorulmicaksan.
+
+Değiştirmek istediğin eklemek istediğin herhangi birşey olursa istediğini yapabilirsin abi farketmez bende değiştirdiğin şeylere bakar
+yeni şeyler öğrenirim en azından şimdiden eline koluna sağlık sağlıklı günler dilerim :)

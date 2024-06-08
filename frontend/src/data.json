@@ -1,0 +1,103 @@
+[
+    {
+        "id": 1,
+        "name": "16GB Usb Bellek ",
+        "price": {
+            "newPrice": 150,
+            "oldPrice":100
+        },
+        
+        "img": {
+            "singleImage": "Site/16GBusb/ön.jpg",
+            "thumbs": [
+                "Site/16GBusb/ön.jpg",
+                "Site/16GBusb/arka.jpg"   
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "32GB Usb Bellek",
+        "price": {
+            "newPrice": 200,
+            "oldPrice":150
+        },
+
+        "img": {
+            "singleImage": "Site/32gbusb/ön.jpg",
+            "thumbs": [
+                "Site/32gbusb/ön.jpg",
+                "Site/32gbusb/arka.jpg"
+                
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "64GB Usb Bellek",
+        "price": {
+            "newPrice": 250,
+            "oldPrice":200
+
+        },
+
+        "img": {
+            "singleImage": "Site/64gusb/ön.jpg",
+            "thumbs": [
+                "Site/64gusb/ön.jpg",
+                "Site/64gusb/arka.jpg"
+              
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "name": "128GB USB BELLEK",
+        "price": {
+            "newPrice": 300,
+            "oldPrice":250
+        },
+
+        "img": {
+            "singleImage": "Site/128gbUSB/ön.jpg",
+            "thumbs": [
+                "Site/128gbUSB/ön.jpg",
+                "Site/128gbUSB/arka.jpg"
+                
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "name": "128GB HAFIZA KARTI",
+        "price": {
+            "newPrice": 300,
+            "oldPrice":250
+        },
+        
+        "img": {
+            "singleImage": "Site/128gbhafıza/ön.png",
+            "thumbs": [
+                "Site/128gbhafıza/ön.png",
+                "Site/128gbhafıza/arka.png"
+            ]
+        }
+    },  
+    {
+        
+        "id": 5,
+        "name": "256GB HAFIZA KARTI",
+        "price": {
+            "newPrice": 500,
+            "oldPrice":400
+        },
+        "img": {
+            "singleImage": "Site/256gbhafıza/ön.jpg",
+            "thumbs": [
+                "Site/256gbhafıza/arka.jpg",
+                "Site/256gbhafıza/ön.jpg"
+            ]
+        }
+    }
+ 
+]
